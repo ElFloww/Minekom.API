@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.API", "src\Minekom.API\Minekom.API.csproj", "{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Core", "src\Minekom.Core\Minekom.Core.csproj", "{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Domain", "src\Minekom.Domain\Minekom.Domain.csproj", "{A4C31E2E-EABF-4A07-86D9-D92055F81117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Infrastructure", "src\Minekom.Infrastructure\Minekom.Infrastructure.csproj", "{E0F359FF-BA9A-44C5-94C3-E500E458754C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.ErrorCodes", "src\Minekom.ErrorCodes\Minekom.ErrorCodes.csproj", "{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C31E2E-EABF-4A07-86D9-D92055F81117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C31E2E-EABF-4A07-86D9-D92055F81117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C31E2E-EABF-4A07-86D9-D92055F81117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C31E2E-EABF-4A07-86D9-D92055F81117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F359FF-BA9A-44C5-94C3-E500E458754C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F359FF-BA9A-44C5-94C3-E500E458754C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F359FF-BA9A-44C5-94C3-E500E458754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F359FF-BA9A-44C5-94C3-E500E458754C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930D4621-FEF8-4A00-B2A1-3210C22BB0C2}
+	EndGlobalSection
+EndGlobal

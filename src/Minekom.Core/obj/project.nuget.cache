@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4GccblSWnij8a/1FhpilkAvdBpUdEq0pZnXbKSJ/6FjX1jOnWKIjl3DzSy8d04xAAg4bj5PCi9ISuMfRgOJoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flore\\Desktop\\Minekom\\api\\Minekom.API\\src\\Minekom.Core\\Minekom.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flore\\.nuget\\packages\\ardalis.guardclauses\\4.3.0\\ardalis.guardclauses.4.3.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\polly\\8.0.0\\polly.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\polly.core\\8.0.0\\polly.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Flore\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

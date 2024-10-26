@@ -1,0 +1,11 @@
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\bin\Debug\net8.0\Minekom.ErrorCodes.deps.json
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\bin\Debug\net8.0\Minekom.ErrorCodes.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\bin\Debug\net8.0\Minekom.ErrorCodes.pdb
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.AssemblyInfoInputs.cache
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.AssemblyInfo.cs
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.csproj.CoreCompileInputs.cache
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\refint\Minekom.ErrorCodes.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\Minekom.ErrorCodes.pdb
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.ErrorCodes\obj\Debug\net8.0\ref\Minekom.ErrorCodes.dll

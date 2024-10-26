@@ -1,0 +1,12 @@
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.csproj.AssemblyReference.cache
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.AssemblyInfoInputs.cache
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.AssemblyInfo.cs
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\bin\Debug\net8.0\Minekom.Domain.deps.json
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\bin\Debug\net8.0\Minekom.Domain.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\bin\Debug\net8.0\Minekom.Domain.pdb
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\refint\Minekom.Domain.dll
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\Minekom.Domain.pdb
+C:\Users\Flore\Desktop\Minekom\api\Minekom.API\src\Minekom.Domain\obj\Debug\net8.0\ref\Minekom.Domain.dll
