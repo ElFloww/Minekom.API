@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minekom.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+733827d0ee23dd902d8806ae83bc1b2739ba12ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minekom.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minekom.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
