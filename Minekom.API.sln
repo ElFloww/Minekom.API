@@ -3,15 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.API", "src\Minekom.API\Minekom.API.csproj", "{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minekom.API", "src\Minekom.API\Minekom.API.csproj", "{002D2A60-5B29-4FF3-BDD3-CE2023323DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Core", "src\Minekom.Core\Minekom.Core.csproj", "{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minekom.Core", "src\Minekom.Core\Minekom.Core.csproj", "{E81EC0BF-26E6-4FED-BBE2-08FFCF94502F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Domain", "src\Minekom.Domain\Minekom.Domain.csproj", "{A4C31E2E-EABF-4A07-86D9-D92055F81117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minekom.Domain", "src\Minekom.Domain\Minekom.Domain.csproj", "{A4C31E2E-EABF-4A07-86D9-D92055F81117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.Infrastructure", "src\Minekom.Infrastructure\Minekom.Infrastructure.csproj", "{E0F359FF-BA9A-44C5-94C3-E500E458754C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minekom.Infrastructure", "src\Minekom.Infrastructure\Minekom.Infrastructure.csproj", "{E0F359FF-BA9A-44C5-94C3-E500E458754C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minekom.ErrorCodes", "src\Minekom.ErrorCodes\Minekom.ErrorCodes.csproj", "{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minekom.ErrorCodes", "src\Minekom.ErrorCodes\Minekom.ErrorCodes.csproj", "{97E4DCC4-D585-4C03-B64C-5CB82E7E0AA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution items", "solution items", "{2FABBFC5-3ED9-4635-942E-91C6E404747C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		global.json = global.json
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
